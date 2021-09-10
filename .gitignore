@@ -1,0 +1,4 @@
+# Path a ignorar
+
+node_modules/
+.env
