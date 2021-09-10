@@ -1,4 +1,4 @@
-# Temas a trabajar en la aplicación:
+# TEMAS TRABAJADOS EN LA APLICACIÓN:
 
     - Consumo de APIs
 
