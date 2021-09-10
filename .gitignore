@@ -1,3 +1,7 @@
 node_modules/
 .env
+<<<<<<< HEAD
 db/*
+=======
+db/*
+>>>>>>> 4f387e87d7e37c390af675092cd5d045856fc5e8
